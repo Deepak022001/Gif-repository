@@ -1,2 +1,1 @@
-# Gif-repository
-random gif generator
+# random-gifs
